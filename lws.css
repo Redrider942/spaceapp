@@ -1,0 +1,36 @@
+<style>
+    h1{
+
+    }
+    body{
+        background-image: url("spacestation.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    .bt{
+        padding: 1rem 2rem;
+        background-color: cyan;
+        border-radius: 5px;
+    }
+    h1{
+        color: white;
+        font-size: 40px;
+        text-align: center;
+    }
+    p{
+        color: white;
+        font-size: 30px;
+    }
+    .nxt{
+        text-align: center;
+        padding: 0rem 2rem;
+        background-color: cyan;
+        border-radius: 5px;
+        width: 50%;
+        font-size: 200%;
+    }
+    .divone{
+        text-align: center;
+    }
+</style>

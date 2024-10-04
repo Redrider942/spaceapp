@@ -1,0 +1,44 @@
+<style>
+    h1{
+
+    }
+
+    body{
+        background-image: url('mg.jpg');
+        background-size: 100% 100%;
+        background-attachment: fixed; 
+        background-repeat: no-repeat;
+    }
+    h1{
+        color:white;
+        text-align: center;
+    }
+    .mg{
+		font-size: 30px;
+        color: white;
+	}
+    .bt{
+        padding: 1rem 2rem;
+        background-color: cyan;
+        border-radius: 5px;
+    }
+    h2{
+        color: white;
+        text-align: center;
+    }
+    h3{
+        color: white;
+        text-align: center;
+    }
+    .nxt{
+        text-align: center;
+        padding: 0rem 2rem;
+        background-color: cyan;
+        border-radius: 5px;
+        width: 50%;
+        font-size: 200%;
+    }
+    .divone{
+        text-align: center;
+    }
+</style>

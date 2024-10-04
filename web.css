@@ -1,0 +1,31 @@
+<style>
+    h1 {}
+    body {
+        background-image: url('web.jpg');
+        background-size: 100% 100%;
+        background-attachment: fixed; 
+        background-repeat: no-repeat; 
+    }
+	h1{
+		size:10;
+		color:white;
+	}
+	.btone{
+		text-align:center;
+	}
+	.bt{
+        width:50%;
+		font-size:200%;
+		font-stretch:300%;
+		background-image:url('space.jpg');
+		background-size:cover;
+		background-position:center;
+		background-repeat:no-repeat;
+		color:white;
+		padding: 1rem 2rem;
+		border-radius: 5px;
+	}		
+	a {
+		color:white;
+	}
+</style>
